@@ -1,7 +1,7 @@
 ## A food ordering app
 
-## Run "npm install" first.
+### Run "npm install" first.
 
-## Then "npm run dev".
+### Then "npm run dev".
 
-## Then navigate to the backend folder and run "npm start" to start the dummy backend.
+### Then navigate to the backend folder and run "npm start" to start the dummy backend.
